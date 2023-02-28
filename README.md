@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millerkit
-- 👀 I’m interested in Front-End Web Development, JavSscript, Vue.js, Svelte.js, GIS, Cartography, R Programming, and Data Analysis
+- 👀 I’m interested in Front-End Web Development, JavSscript, Vue.js, Svelte.js, and Java development
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me: email kmillercc@gmail.com
 
